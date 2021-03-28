@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ibaichen.github.io</id>
     <title>小知己</title>
-    <updated>2021-03-27T14:32:34.563Z</updated>
+    <updated>2021-03-28T14:30:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ibaichen.github.io"/>
     <link rel="self" href="https://ibaichen.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ibaichen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小知己</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[让写作变成享受，Hello Gridea]]></title>
         <id>https://ibaichen.github.io/post/hello-gridea/</id>
         <link href="https://ibaichen.github.io/post/hello-gridea/">
         </link>
@@ -40,6 +40,34 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win平台下空格预览神器QuickLook]]></title>
+        <id>https://ibaichen.github.io/post/win-ping-tai-xia-kong-ge-yu-lan-shen-qi-quicklook/</id>
+        <link href="https://ibaichen.github.io/post/win-ping-tai-xia-kong-ge-yu-lan-shen-qi-quicklook/">
+        </link>
+        <updated>2017-08-15T13:19:22.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://ibaichen.github.io/post-images/1616940890980.jpeg" alt="" loading="lazy"></figure>
+<p>有用过MacOS系统的人应该都会对空格键快速预览的操作感到羡慕，按下空格即可预览文件的内容，而不必像win系统一样需要先等待软件启动加载，可以说这个功能真的非常的高效且实用。</p>
+<p>学生时期受制于资金压力，曾有羡慕过那些可以用上MacOS的人，偶然一次机会让我知道<strong>QuickLook</strong>的时候，那感觉就像遇到一生的知己一样。</p>
+<p>从学生时期到现在经历过数年时光，系统重装过一次又一次，系统里的软件有的用不上了，有的不想用了，唯独QuickLook跟随至今。</p>
+<figure data-type="image" tabindex="2"><img src="https://ibaichen.github.io/post-images/1616941617669.gif" alt="" loading="lazy"></figure>
+<p><strong>QuickLook</strong>基于Fluent Design规范设计，界面简洁美观，是一款开源且免费的快速预览的软件，有着和MacOS系统复刻程度极高的的快速预览功能，只需要选中想要预览的文件按下空格你就可以快速的预览图片、视频、音频、文档、代码、压缩包等主流的文件格式内容，体验感极佳。</p>
+<p>作为IT从业人员，每天都要处理太多的图片和文档，很多时候其实并不是想要对图片或者文档进行编辑操作，但是通常win系统里想要查看图片或者文档那就免不了要打开它们，这期间不仅需要等待软件加载还会增加电脑的运行负担，而恰巧工作中的电脑性能都不需要多言语，知道的都知道！</p>
+<p>所以一款可以空格预览空格退出或者Esc退出的软件真的可以大大的减少工作中不必要等待的时间，提高工作效率。</p>
+<p>当然QuickLook并不是100%的完美，毕竟不是原生，所以很多格式的文件还都只能看到文件夹的大小和最后打开时间，看不到文件夹里包含了哪些内容，不过这也不是不可以解决的，如果想要支持预览更多的格式只需要安装插件即可。</p>
+<p><strong>热键和按钮</strong></p>
+<p>[ Spacebar ] 显示/隐藏预览窗口</p>
+<p>[ Esc ] 隐藏预览窗口</p>
+<p>[ Enter ] 打开/执行当前文件</p>
+<p>[ Mouse ] [ ↑ ] [ ↓ ] [ ← ] [ → ]预览另一个文件</p>
+<p>[ Mouse Wheel ] 放大缩小字体功能 放大缩小字体功能</p>
+<p>[ Ctrl ] + [ Mouse Wheel ] 放大缩小字体功能 放大缩小字体功能</p>
+<p>[ Wheel ] 增加/减少量</p>
+<p><strong>推荐指数:</strong> ⭐️⭐️⭐️⭐️</p>
+<p>下载地址：https://github.com/QL-Win/QuickLook/releases</p>
+<p>插件地址：https://github.com/QL-Win/QuickLook/wiki/Available-Plugins</p>
 ]]></content>
     </entry>
 </feed>
